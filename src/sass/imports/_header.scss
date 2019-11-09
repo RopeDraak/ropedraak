@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 .site-header {
-  background: #fff;
+  background: #4e4e52;
   border-bottom: 1px solid _palette(border);
   color: _palette(primary);
 }
@@ -264,6 +264,7 @@
     font-size: 14px;
     line-height: 1.2;
     margin-top: 0.4em;
+    color: _palette(meta);
   }
 
   .menu-toggle {

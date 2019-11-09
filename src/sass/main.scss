@@ -6,13 +6,13 @@ $font: (
 
 // Palette.
 $palette: (
-  primary:       #555e69,
+  primary:       #fff,
   secondary:     darken(#555e69, 15%),
   meta:          lighten(#555e69, 25%),
-  border:        lighten(#555e69, 55%),
-  border-alt:    lighten(#555e69, 25%),
+  border:        #fff,
+  border-alt:    #fff,
   accent:        #1de2bc,
-  accent-blue:   #10bcf9,
+  accent-blue:   #d40d0d,
   accent-violet: #9371e6,
   accent-orange: #fc6e51
 );
