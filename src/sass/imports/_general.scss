@@ -292,7 +292,7 @@ a.button {
   &:active {
     background: 0;
     box-shadow: 0 0 1px 7px rgba(_palette(accent),.2);
-    color: _palette(secondary);
+    color: inherit;
     outline: 0;
   }
 }
