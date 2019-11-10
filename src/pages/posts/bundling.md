@@ -20,7 +20,7 @@ template: post
 
 The following gif shows the complete process of the bundle:
 
-![alt text](http://localhost:8000/images/bundle.gif)
+![alt text](/images/bundle.gif)
 
 ####Steps:
   1. Rope starts folded in half by putting the two ends together. The two ends form the tail.
