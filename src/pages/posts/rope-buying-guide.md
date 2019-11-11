@@ -9,6 +9,8 @@ template: post
 ---
 *Pictured above: me holding lots of different rope*
 
+*last updated Nov '19*
+
 This guide first describes some of the important attributes rope can have, then goes through each kind of rope you could buy and what properties each has.
 
 Don't want to read the whole guide? Here are three quick suggestions:
@@ -18,7 +20,7 @@ Don't want to read the whole guide? Here are three quick suggestions:
 
 ###Stores I have personally bought rope from and recommend
 + [Passional](https://www.passionalboutique.com/sexploratorium/bdsm/restraints-rope/) - All their rope is great, but there's more in the store than online.
-+ [Agreeable Agony](https://www.agreeableagony.com/products/bondage-rope-1-4-solid-braid-mfp-soft-30ft-bundle-for-shibari-6mm) - I've only bought their MFP but it was exactly what I wanted.
++ [Agreeable Agony](https://www.agreeableagony.com/products/bondage-rope-1-4-solid-braid-mfp-soft-30ft-bundle-for-shibari-6mm) - Their MFP is affordable with an enormous selection of colors.
 
 ###Attributes
 + *Braided or Twisted*  

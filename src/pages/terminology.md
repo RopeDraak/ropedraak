@@ -8,6 +8,7 @@ menus:
     weight: 3
 template: page
 ---
+*last updated Nov '19*
 
 ###[Bight](#bight)
 The [bight](https://en.wikipedia.org/wiki/Bight_(knot)) (pronounced like "bite") refers to the curved part of a length of rope when folded. Most commonly it refers to the center of the rope when folded in half.

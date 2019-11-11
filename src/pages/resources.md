@@ -8,6 +8,7 @@ menus:
     weight: 3
 template: page
 ---
+*last updated Nov '19*
 
 ###[The Ashley Book of Knots](https://en.wikipedia.org/wiki/The_Ashley_Book_of_Knots) - Clifford W. Ashley
 The Ashley Book of Knots is an extensive encyclopedia and by far one of the most comprehensive works on practical knots.

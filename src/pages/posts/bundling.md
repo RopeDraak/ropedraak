@@ -1,6 +1,6 @@
 ---
 title: Bundling Rope
-date: '2019-11-10'
+date: '2019-11-09'
 thumb_img_path: images/bundles.jpg
 content_img_path: images/bundles.jpg
 excerpt: >-
@@ -8,6 +8,8 @@ excerpt: >-
 template: post
 ---
 *Pictured above: 6mm dyed hemp rope from [Passional](https://www.passionalboutique.com/sexploratorium/bdsm/restraints-rope/) in Philadelphia*
+
+*last updated Nov '19*
 
 ####Advantages of this method:
   + Starts at the tail- no need to find the bight first!

@@ -8,6 +8,7 @@ menus:
     weight: 4
 template: page
 ---
+*last updated Nov '19*
 
 I'm Gulden Draak: I'm gay, polyamorous and I live in Philadelphia. I'm currently an organizer of the event [Tickle Fest](https://www.tklfest.com/) and I have taught rope classes at kink events, private parties and tutored monogamous couples. I'm passionate about contributing to kink spaces so that people feel safe and can celebrate the parts of themselves they've felt shameful about.
 
