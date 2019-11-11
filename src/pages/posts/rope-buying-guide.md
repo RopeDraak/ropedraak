@@ -7,7 +7,7 @@ excerpt: >-
   Rope is made from lots of materials, in different sizes, with different patterns, properties, and advantages. Let's make sense of it all and find the kind of rope you're looking for.
 template: post
 ---
-*Pictured above: 6mm dyed hemp rope from [Passional](https://www.passionalboutique.com/sexploratorium/bdsm/restraints-rope/) in Philadelphia*
+*Pictured above: me holding lots of different rope*
 
 This guide first describes some of the important attributes rope can have, then goes through each kind of rope you could buy and what properties each has.
 
