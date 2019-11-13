@@ -2,6 +2,14 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     plugins: [
+        {
+            resolve: `gatsby-plugin-gtag`,
+            options: {
+                trackingId: `UA-152057581-1`,
+                head: true,
+                anonymize: true,
+            },    
+        },
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         {
