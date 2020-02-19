@@ -29,13 +29,13 @@ The hogtie on the right isn't very good because the ankles are attached directly
 
 ###Steps
 
-There are lots of ways to do a hogtie with just rope and no cuffs, but using cuffs simplifies the whole thing significantly. They also make the tie much easier to undo in the case of an emergency. You can buy a set of cuffs them in nearly any local sex shop, or online. I recommend trying them on in person if you can because some of them can hurt even under a reasonable amount of pressure.
+There are lots of ways to do a hogtie with just rope and no cuffs, but using cuffs simplifies the whole thing significantly. They also make the tie much easier to undo in the case of an emergency. You can buy a set of cuffs in nearly any local sex shop, or online. I recommend trying them on in person if you can because some of them can be rigid and hurt even under a reasonable amount of pressure.
 
-Make sure the cuffs are snug, but not tight enough to restrict blood flow or cause fingers to feel numb. If your sub feels either of these things be sure to adjust the cuffs or take them out of the tie if it's not quickly improving.
+Make sure the cuffs are snug, but not tight enough to restrict blood flow or cause fingers to feel numb. If your partner feels either of these things be sure to adjust the cuffs or take them out of the tie if it's not quickly improving.
 
 ![](/images/hogtie/1.jpg)
 
-First have your sub put their arms behind thier back
+First, have your partner put their arms behind their back.
 
 ![](/images/hogtie/2.jpg)
 
@@ -79,7 +79,7 @@ Bring the working end around so it crosses with the vertical rope on their back
 
 ![](/images/hogtie/12.jpg)
 
-Bring the rope over and back under to start a [munter hitch](https://ifavermont.blogspot.com/2014/02/the-munter-hitch-and-cow-hitch.html). Munter Hitches let rope pass each other while making their intersections don't slip. This makes sure any pressure from struggling gets evenly distributed throughout the chest harness and prevents it from deforming.
+Bring the rope over and back under to start a [munter hitch](https://ifavermont.blogspot.com/2014/02/the-munter-hitch-and-cow-hitch.html). Munter hitches let a rope pass over another rope perpendicularly but locks the intersection in place. This makes sure any pressure from struggling gets evenly distributed throughout the chest harness and prevents it from deforming.
 
 This is the point where we're going to be locking in the tension of the arms up towards the neck. If it feels to loose tighten everything up before completing the munter hitch.
 
@@ -148,7 +148,7 @@ Pull the tail end through that hole so that the final hitch looks like this:
 This is the complete chest harness! This is a great place to goof off and have some fun since the arms are firmly attached. Next step is to add the legs.
 
 
-Guide your sub to the bed. This can be awkward with their arms tied behind their back, but it helps to have them start by sitting on the edge of the bed.
+Guide your partner to the bed. This can be awkward with their arms tied behind their back, but it helps to have them start by sitting on the edge of the bed.
 
 ![](/images/hogtie/29.jpg)
 
@@ -156,7 +156,7 @@ Pull the tail end through the two rings in the ankle cuffs.
 
 ![](/images/hogtie/30.jpg)
 
-_Gently_ pull the legs up and find where there's resistance. Also, talk to your sub! Ask how it feels and how tight they like it.
+_Gently_ pull the legs up and find where there's resistance. Also, talk to your partner! Ask how it feels and how tight they like it.
 
 ![](/images/hogtie/31.jpg)
 
@@ -168,7 +168,7 @@ Begin coiling the rope (the coils featured in these pictues are actually backwar
 
 ![](/images/hogtie/33.jpg)
 
-The exact number of coils depends on the grip strength of the rope you're using. For grippy rope like this hemp I'm using two or three is plenty. For more slippery rope like MFP or nylon you may need 5 or more for this friction hitch to actually stick. You'll know you don't have enough if your sub tries to straighten out their legs and the knot slides all the way to their ankles.
+The exact number of coils depends on the grip strength of the rope you're using. For grippy rope like this hemp I'm using two or three is plenty. For more slippery rope like MFP or nylon you may need 5 or more for this friction hitch to actually stick. You'll know you don't have enough if your partner tries to straighten out their legs and the knot slides all the way to their ankles.
 
 ![](/images/hogtie/34.jpg)
 
@@ -184,7 +184,7 @@ When you want to adjust the tension in their legs, use one hand to grab the knot
 
 ![](/images/hogtie/37.jpg)
 
-That's it! Have fun, and remember to check in to see how your sub is feeling from time to time while you play.
+That's it! Have fun, and remember to check in to see how your partner is feeling from time to time while you play.
 
 ![](/images/hogtie/38.jpg)
 
