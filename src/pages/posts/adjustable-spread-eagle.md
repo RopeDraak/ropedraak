@@ -125,4 +125,4 @@ Now that's much tighter! It can be loosened in the same way, just by pulling the
 
 ![](/images/spread-eagle/20.jpg)
 
-Repeat with all four ankles and have fun!
+Repeat with all four limbs and have fun!
