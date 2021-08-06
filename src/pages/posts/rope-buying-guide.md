@@ -9,7 +9,7 @@ template: post
 ---
 *Pictured above: me holding lots of different rope*
 
-*last updated Nov '19*
+*updated broken link Aug '21*
 
 This guide first describes some of the important attributes rope can have, then goes through each kind of rope you could buy and what properties each has.
 
@@ -19,7 +19,7 @@ Don't want to read the whole guide? Here are three quick suggestions:
 + Inexpensive, widely available rope that's harder to work with: 1/4in braided Nylon ([link](https://www.homedepot.com/p/T-W-Evans-Cordage-1-4-in-x-100-ft-Solid-Braid-Nylon-Rope-Hank-44-080/205326955)). Expect this to cost about 15 - 30 cents per foot.
 
 ###Stores I have personally bought rope from and recommend
-+ [Passional](https://www.passionalboutique.com/sexploratorium/bdsm/restraints-rope/) - All their rope is great, but there's more in the store than online.
++ [Passional](https://www.passionalboutique.com/) - All their rope is great, but there's more in the store than online.
 + [Agreeable Agony](https://www.agreeableagony.com/products/bondage-rope-1-4-solid-braid-mfp-soft-30ft-bundle-for-shibari-6mm) - Their MFP is affordable with an enormous selection of colors.
 
 ###Attributes
@@ -94,6 +94,3 @@ Natural Fiber
 **Other notes**: It's antibacterial! Great for using on faces and in mouths. A great rope to add to your existing collection.  
   
 There are many more reasonable choices for rope bondage, but these are what I have lots of experience using myself. Let me know if you think I'm missing an important one!
-
-
-  

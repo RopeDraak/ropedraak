@@ -7,9 +7,9 @@ excerpt: >-
   Learn how to bundle rope for neat storage and so it doesn't come undone in your bag while traveling. This method is safe for both synthetic and natural fibers.
 template: post
 ---
-*Pictured above: 6mm dyed hemp rope from [Passional](https://www.passionalboutique.com/sexploratorium/bdsm/restraints-rope/) in Philadelphia*
+*Pictured above: 6mm dyed hemp rope from [Passional](https://www.passionalboutique.com/) in Philadelphia*
 
-*last updated Nov '19*
+*updated broken link Aug '21*
 
 ####Advantages of this method:
   + Starts at the tail- no need to find the bight first!
