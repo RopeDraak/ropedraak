@@ -13,9 +13,9 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      Rope bondage is something lots of people are interested in but the vast majority have no idea how to get started. The purpose of this page is to give you enough resources to get started and learn about safety so you can practice with confidence and play like a pro.  
+      So many people are interested in rope bondage, but it can be intimidating to get started. The purpose of this page is to quickly get you from zero experience to safely having fun, and beyond so you can practice with confidence and play like a pro.
         
-      The site is still in its early stages and will grow as I add more content over time.
+      I started this page just before the pandemic and haven't updated it much yet, but I still plan to! Let me know what new posts you'd like to see.
   - type: postsblock
     title: Recent Posts
     section_id: recent-posts
